@@ -1,0 +1,6 @@
+namespace Solid._04_ISP.Good.Interfaces;
+
+public interface IBenefitsCalculator
+{
+    void CalculateBenefits();
+}
